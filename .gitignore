@@ -1,0 +1,4 @@
+# local copies of the model files, reference dumps and other tool output
+/models/
+/out/
+__pycache__/
