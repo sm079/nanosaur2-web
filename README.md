@@ -180,5 +180,7 @@ The int8 columns compare against the reference running the same int8 DiT (dequan
 
 ## License
 
+The code is MIT-licensed; see [LICENSE](LICENSE).
+
 Nanosaur2 is MIT-licensed by its author; see the [model card](https://huggingface.co/well9472/Nanosaur2-670M).
 The app downloads the original model files from that repo.
